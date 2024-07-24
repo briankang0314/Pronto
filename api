@@ -6,8 +6,8 @@ https://69qcfumvgb.execute-api.ap-southeast-2.amazonaws.com/
 
 
 GetAccessToken
-    input: IDToken
-    output: AccessToken, DeviceToken 
+    input: IDToken, DeviceToken 
+    output: AccessToken
 
 
 
